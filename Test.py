@@ -1,1 +1,2 @@
-Print something
+Print anything
+Print something new
